@@ -9,8 +9,8 @@ Que faire ? scanner pages par page ? imprimer les certaines pages au format pdf 
 Bref, il est plus que temps d'automatiser avec python un programme pour cette problématique.
 
 ## Pré-requis
-- Python 3.10
-- pypdf2
+-  Python 3.10
+-  pypdf2
 
 ## Fonctionnalités
-- gestion_dossier: créer un dossiers pour mettre les pdf à modifier et un pour les pdfs modifiés.
+-  gestion_dossier: créer un dossiers pour mettre les pdf à modifier et un pour les pdfs modifiés.
